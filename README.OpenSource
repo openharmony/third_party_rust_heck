@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "heck",
+    "License": "Apache License 2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.4.1",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/withoutboats/heck",
+    "Description": "A Rust library that provides support for converting strings to their camel-case or snake-case equivalents."
+  }
+]
