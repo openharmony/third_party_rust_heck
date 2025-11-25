@@ -24,4 +24,7 @@ ohos_cargo_crate("lib") {
     cargo_pkg_authors = "Without Boats <woboats@gmail.com>"
     cargo_pkg_name = "heck"
     cargo_pkg_description = "heck is a case conversion library."
+    module_output_extension = ".rlib"
+    part_name = "rust_heck"
+    subsystem_name = "thirdparty"
 }
